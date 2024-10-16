@@ -1,0 +1,4 @@
+0 Glass
+1 Paper
+2 Plastik
+3 Oil
